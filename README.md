@@ -4,9 +4,9 @@
 ### This website on the importance of Good hygiene has been developed for Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
 
 
-**Project URL** - 
+**Project URL** - https://salmon-river-0eccb0200.3.azurestaticapps.net
 
-**Demo Video URL** - 
+**Demo Video URL** - https://youtu.be/tL63saosAnM?si=V1QEcLWYA4PprJkl
 
 ## Features and Functionalities 
 
@@ -47,5 +47,6 @@
 - Health bot
 ## Technical languages 
  - HTML
+ - Azure
  - CSS
  - Java script

@@ -4,9 +4,9 @@
 ### This website on the importance of Good hygiene has been developed for Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
 
 
-**Project URL** - https://mango-bush-0272cd300.3.azurestaticapps.net 
+**Project URL** - 
 
-**Demo Video URL** - https://youtu.be/ejTvmj4RY2w?si=iLB5_SwsvM1q28HV
+**Demo Video URL** - 
 
 ## Features and Functionalities 
 

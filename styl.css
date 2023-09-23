@@ -1,0 +1,79 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.image {
+      background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0, 0, 0, 0.4)),url("https://www.top10homeremedies.com/wp-content/uploads/2017/12/ignoring-personal-hygiene-600x400.jpg");
+      /background-image: url();/
+      background-repeat: no-repeat;
+      background-size: cover;
+      height:80vh;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-style:oblique;
+      font-size:80px;
+    }
+
+    .image p{
+      position:relative;
+      top:12%;
+      right:8%;
+      font-style: oblique;
+      font-size: 50px;
+      color:black;
+    }
+    p{
+      color:rgb(7, 116, 170);
+    }
+    .but {
+     background-color: white;
+      color: black;
+      font-size:20px;
+      border: 2px solid #008CBA;
+     }
+     .but:hover{
+        background-color: #4CAF50;
+        color: white;
+      }
+     h3{
+       color:rgb(25, 143, 222);
+     }
+      .hed p{
+         color:rgba(237, 90, 17, 0.571);
+       }
+       .hed li{
+         color:blue;
+       }
+       .points li{
+        color:black;
+       }
+       .seri{
+           position: obsulate
+         }
+         .seri img{
+           font-size:30%;
+           width:10%;
+           height:40%;
+           top:40%;
+           border: 5px;
+         }
+         table {
+        width: 20%;
+         border: 1px solid;
+         }
+         .strong{
+           color:violet;
+           font-style: italic;
+         }
+         .seric p{
+           color: green;
+         }
+         .seric img{
+           position:relative;
+           border-color: rgb(255, 0, 0);
+           border: 3px solid #4CAF50;
+           border-radius: 8px;
+         }
